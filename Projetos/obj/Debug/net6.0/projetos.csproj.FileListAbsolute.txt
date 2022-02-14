@@ -1,0 +1,15 @@
+C:\Users\rapha\Projetos\bin\Debug\net6.0\projetos.exe
+C:\Users\rapha\Projetos\bin\Debug\net6.0\projetos.deps.json
+C:\Users\rapha\Projetos\bin\Debug\net6.0\projetos.runtimeconfig.json
+C:\Users\rapha\Projetos\bin\Debug\net6.0\projetos.dll
+C:\Users\rapha\Projetos\bin\Debug\net6.0\ref\projetos.dll
+C:\Users\rapha\Projetos\bin\Debug\net6.0\projetos.pdb
+C:\Users\rapha\Projetos\obj\Debug\net6.0\projetos.csproj.AssemblyReference.cache
+C:\Users\rapha\Projetos\obj\Debug\net6.0\projetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rapha\Projetos\obj\Debug\net6.0\projetos.AssemblyInfoInputs.cache
+C:\Users\rapha\Projetos\obj\Debug\net6.0\projetos.AssemblyInfo.cs
+C:\Users\rapha\Projetos\obj\Debug\net6.0\projetos.csproj.CoreCompileInputs.cache
+C:\Users\rapha\Projetos\obj\Debug\net6.0\projetos.dll
+C:\Users\rapha\Projetos\obj\Debug\net6.0\ref\projetos.dll
+C:\Users\rapha\Projetos\obj\Debug\net6.0\projetos.pdb
+C:\Users\rapha\Projetos\obj\Debug\net6.0\projetos.genruntimeconfig.cache
